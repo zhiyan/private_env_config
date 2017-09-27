@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Codecs33",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
+		"Handlebars",
+		"HostsEdit",
+		"HTML-CSS-JS Prettify",
+		"JsFormat",
+		"JsPrettier",
+		"MarkdownEditing",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Package Control",
+		"Razor",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Vue Syntax Highlight"
+	]
+}
