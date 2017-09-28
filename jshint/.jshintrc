@@ -1,0 +1,24 @@
+{
+    "curly":true,
+    "unused": true,
+    "undef": true,
+    "eqeqeq" : true,
+    "freeze": true,
+    "latedef" : "nofunc",
+    "noarg" : true,
+    "undef" : true,
+    "unused" : true,
+    "asi": true,
+    "boss": true,
+    "browser": true,
+    "jquery": true,
+    "node": true,
+    "globals" : {
+        "$" : false,
+        "moment" : false,
+        "_" : false,
+        "define" : false,
+        "require" : false,
+        "PYDATA" : false
+    }
+}
