@@ -1,0 +1,23 @@
+{
+	"parser": "babel-eslint",
+	"env": {
+	 "browser": true,
+	 "node": true
+	},
+	"extends": "eslint:recommended",
+	"globals" : {
+      "$" : false,
+      "moment" : false,
+      "_" : false,
+      "define" : false,
+      "require" : false,
+      "PYDATA" : false,
+      "tools" : false,
+      "dev" : false
+  },
+  "plugins": [
+  	"html"
+  ],
+	"rules": {
+	}
+}
