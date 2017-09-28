@@ -1,5 +1,9 @@
 {
 	"bootstrapped": true,
+	"channels":
+	[
+		"/Users/wangzhiyan/Documents/config/channel_v3.json"
+	],
 	"in_process_packages":
 	[
 	],
@@ -23,7 +27,7 @@
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeLinter",
-		"SublimeLinter-jshint",
+		"SublimeLinter-contrib-eslint",
 		"Vue Syntax Highlight"
 	]
 }
